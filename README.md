@@ -76,7 +76,7 @@ The phone number must include the country code with a '+' prefix:
 The script handles two main error scenarios:
 
 1. **Invalid Number**: If the phone number is not valid for the given country
-2. **Parse Error**: If the phone number format is incorrect (missing country code, wrong format, etc.)
+2. **Parse Error**: If the phone number format is incorrect (missing country code, wrong format, etc..)
 
 ## Dependencies
 
